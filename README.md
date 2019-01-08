@@ -4,4 +4,5 @@ Author: Andrea Nesdoly
 
 Supervisor: Neil Ernst
 
-This project evaluates different land classification algorithms by comparing two to four different machine learning techniques. Comparisons of time and space efficiency, analysis of accuracy compared to known software, and statistical tests will be conducted.  
+This project evaluates different land classification algorithms by comparing two to four different machine learning techniques. Comparisons of time and space efficiency, analysis of accuracy compared to known software, and statistical tests will be conducted.
+The remote sensing data being used comes from LandSAT 8 and is located in the Victoria, BC area.
