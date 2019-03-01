@@ -10,4 +10,6 @@ The remote sensing data being used comes from LandSAT 8 and is located in the Vi
 To run the enclosed Jupyter Notebook ensure that the machine being used has Python 3, and the following libraries are installed:
  - numpy
  - gdal
+ - matplotlib
  
+ **Still need to upload data and figures to git to share
