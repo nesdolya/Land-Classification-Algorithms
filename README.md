@@ -11,5 +11,5 @@ To run the enclosed Jupyter Notebook ensure that the machine being used has Pyth
  - numpy
  - gdal
  - matplotlib
- - cv2
+ - scikit-learn
  
